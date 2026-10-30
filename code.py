@@ -1,2 +1,3 @@
+age = 10
 print("Hello")
-print("Hello class")
+print(f"I have {age} years old")
